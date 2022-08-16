@@ -20,7 +20,7 @@ validate-circleci:
 	circleci config process .circleci/config.yml
 
 run-circleci-local:
-	# See https://circleci.com/docs/2.0/local-cli/#running-a-job
+	# See https://circleci.com/docs/2.0/local-cli/#running-a-
 	circleci local execute
 
 
